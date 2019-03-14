@@ -1,0 +1,81 @@
+----------iterator----------
+local iterator = {} --迭代器抽象类
+
+
+function iterator:new(opt)
+    opt = opt or {}
+
+    --指针，指向遍历到的当前节点
+    opt.count = opt.count or 1
+
+    self.__index = self
+    setmetatable(opt, self)
+    return opt
+end
+
+-- 迭代器返回元素第一个
+function iterator:first()
+end
+
+-- 迭代器返回下一个元素
+function iterator:nextItem()
+end
+
+function iterator:isDone()
+end
+----------iterator end----------
+
+
+-----------aggregate---------
+local aggregate = {} -- 聚集对象抽象类
+function aggregate.new(self, opt)
+    opt = opt or {}
+
+    self.__index = self
+    setmetatable(opt, self)
+    return opt
+end
+-----------aggregate end---------
+
+-- 返回一个迭代器
+function aggregate:createIterator()
+end
+
+---------bus----------
+-- 公交车聚集对象
+local bus = aggregate:new()
+
+function bus:new(opt)
+    opt = opt or {}
+
+    -- 乘客
+    opt.items = opt.items or {}
+
+    self.__index = self
+    setmetatable(opt, self)
+    return opt
+end
+
+---------bus end----------
+
+---------乘务员----------
+local ticker = iterator:new()
+
+-- 迭代器返回元素第一个
+function ticker:first()
+end
+
+-- 迭代器返回下一个元素
+function ticker:nextItem()
+end
+
+function ticker:isDone()
+end
+
+
+
+
+
+
+---------乘务员 end----------
+
