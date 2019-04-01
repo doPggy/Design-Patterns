@@ -6,7 +6,9 @@
 * [单例模式](http://note.youdao.com/noteshare?id=87c874f350184781c3ece32f607f0134)
 * [迭代器模式](http://note.youdao.com/noteshare?id=2acff105403cb863f3c7bb72e864c54d)
 * [备忘录模式](http://note.youdao.com/noteshare?id=36af32739ae9d0b765e692a385f2807a)
+* [简单工厂模式](http://note.youdao.com/noteshare?id=a866f270ff2f6d826a4a848ad2d49a7c)
 * [状态模式](http://note.youdao.com/noteshare?id=cb5bbee03c10503bd13d30fe25f19080)
+* [策略模式](http://note.youdao.com/noteshare?id=cb5bbee03c10503bd13d30fe25f19080)
 
 ---
 
