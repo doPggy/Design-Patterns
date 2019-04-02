@@ -8,7 +8,7 @@
 * [备忘录模式](http://note.youdao.com/noteshare?id=36af32739ae9d0b765e692a385f2807a)
 * [简单工厂模式](http://note.youdao.com/noteshare?id=a866f270ff2f6d826a4a848ad2d49a7c)
 * [状态模式](http://note.youdao.com/noteshare?id=cb5bbee03c10503bd13d30fe25f19080)
-* [策略模式](http://note.youdao.com/noteshare?id=cb5bbee03c10503bd13d30fe25f19080)
+* [策略模式](http://note.youdao.com/noteshare?id=be3d3754ac772ac6b59af81b99977802)
 
 ---
 
