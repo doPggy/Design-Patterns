@@ -10,6 +10,7 @@
 * [简单工厂模式](http://note.youdao.com/noteshare?id=a866f270ff2f6d826a4a848ad2d49a7c)
 * [状态模式](http://note.youdao.com/noteshare?id=cb5bbee03c10503bd13d30fe25f19080)
 * [策略模式](http://note.youdao.com/noteshare?id=be3d3754ac772ac6b59af81b99977802)
+* [装饰模式](http://note.youdao.com/noteshare?id=ad4fa754f96fd531ad103ab3dfc92f46)
 
 ---
 
