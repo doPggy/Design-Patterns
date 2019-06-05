@@ -12,10 +12,10 @@
 * [策略模式](http://note.youdao.com/noteshare?id=be3d3754ac772ac6b59af81b99977802)
 * [装饰模式](http://note.youdao.com/noteshare?id=ad4fa754f96fd531ad103ab3dfc92f46)
 * [代理模式](http://note.youdao.com/noteshare?id=10fa2a933ca824a3bc3544f21cb42321)
+* [工厂方法模式](http://note.youdao.com/noteshare?id=5083a2b7c90930dbe4b8ab671f96ad9e)
 
 
 ---
-
 
 **联系方式：545749402@qq.com**
 
