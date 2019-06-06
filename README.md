@@ -13,6 +13,7 @@
 * [装饰模式](http://note.youdao.com/noteshare?id=ad4fa754f96fd531ad103ab3dfc92f46)
 * [代理模式](http://note.youdao.com/noteshare?id=10fa2a933ca824a3bc3544f21cb42321)
 * [工厂方法模式](http://note.youdao.com/noteshare?id=5083a2b7c90930dbe4b8ab671f96ad9e)
+* [模板方法模式](http://note.youdao.com/noteshare?id=494fa1e96648433e299279f8896815e1)
 
 
 ---
