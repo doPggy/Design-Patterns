@@ -1,5 +1,6 @@
 # 设计模式学习
-**本仓库是设计模式学习的源码托管，使用 lua 语言实现。限于个人 lua 接触的时间不足和对设计模式的使用还没有完全应用于实践，对设计模式的 lua 实现存在一定的不足，望各位多批评指正**  
+**本仓库是设计模式学习的源码托管，使用 lua 语言实现。限于个人 lua 接触的时间不足和对设计模式的使用还没有完全应用于实践，对设计模式的 lua 实现存在一定的不足，望各位多批评指正.**  
+
 **个人对设计模式的理解托管在有道云笔记。目前更新内容如下，仍是欢迎各位批评指正。**
 
 * [单一职责、开放封闭、依赖倒转原则](http://note.youdao.com/noteshare?id=0bea989de95eda0c1080bf5432789fd5)
@@ -14,6 +15,7 @@
 * [代理模式](http://note.youdao.com/noteshare?id=10fa2a933ca824a3bc3544f21cb42321)
 * [工厂方法模式](http://note.youdao.com/noteshare?id=5083a2b7c90930dbe4b8ab671f96ad9e)
 * [模板方法模式](http://note.youdao.com/noteshare?id=494fa1e96648433e299279f8896815e1)
+* [外观模式](http://note.youdao.com/noteshare?id=757d16d0d91ce4a7465751391f508c25)
 
 
 ---
