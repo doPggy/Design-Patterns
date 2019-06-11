@@ -16,6 +16,7 @@
 * [工厂方法模式](http://note.youdao.com/noteshare?id=5083a2b7c90930dbe4b8ab671f96ad9e)
 * [模板方法模式](http://note.youdao.com/noteshare?id=494fa1e96648433e299279f8896815e1)
 * [外观模式](http://note.youdao.com/noteshare?id=757d16d0d91ce4a7465751391f508c25)
+* [建造者模式](http://note.youdao.com/noteshare?id=f8506266eab5335353125349a7c55135)
 
 
 ---
