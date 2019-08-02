@@ -19,6 +19,7 @@
 * [建造者模式](http://note.youdao.com/noteshare?id=f8506266eab5335353125349a7c55135)
 * [观察者模式](http://note.youdao.com/noteshare?id=b71d1fbfb46f968f44161189c7687ee7)
 
+
 ---
 
 **联系方式：545749402@qq.com**
